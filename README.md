@@ -62,3 +62,11 @@ Data Optimization: Ensure efficient data retrieval and storage through database 
 Authentication: Manage user profiles
 Authorization: Safeguard application data and ensure secure transactions.
 Rate Limiting
+
+
+# CI/CD Pipeline
+They are automated development pipelines, for boosting efficiency and minimizing errors during the deployment phase.
+Github actions
+Docker
+
+
