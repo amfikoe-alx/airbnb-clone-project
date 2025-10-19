@@ -56,3 +56,9 @@ Booking systems: Create a booking mechanism for users to reserve properties and 
 Payment processing: integrate a payment system to handle transactions and record payment details.
 Review systems: Allow users to leave reviews and ratings for properties.
 Data Optimization: Ensure efficient data retrieval and storage through database optimisation.
+
+
+# API Security
+Authentication: Manage user profiles
+Authorization: Safeguard application data and ensure secure transactions.
+Rate Limiting
