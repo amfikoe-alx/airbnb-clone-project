@@ -48,3 +48,11 @@ Reviews
   PUT /reviews/{review_id}/ Update a specific review
   DELETE /reviews/{review_id}/ Delete a specific review
   
+
+# Feature Breakdown
+User management: Implement a secure system for user registration, authentication, and profile management.
+Property management: Develop features for property listing creation, updates, and retrieval.
+Booking systems: Create a booking mechanism for users to reserve properties and manage booking details.
+Payment processing: integrate a payment system to handle transactions and record payment details.
+Review systems: Allow users to leave reviews and ratings for properties.
+Data Optimization: Ensure efficient data retrieval and storage through database optimisation.
