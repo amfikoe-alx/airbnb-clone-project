@@ -65,8 +65,28 @@ Rate Limiting
 
 
 # CI/CD Pipeline
-They are automated development pipelines, for boosting efficiency and minimizing errors during the deployment phase.
+They are automated development pipelines for boosting efficiency and minimizing errors during the deployment phase.
 Github actions
 Docker
 
 
+# UI/UX Design Planning
+Design Goals
+  Create an intuitive booking flow
+  Maintain visual consistency
+  Ensure fast loading times
+  Prioritize mobile responsiveness
+  
+Key Features
+  Property search and filtering
+  Detailed property viewing
+  Secure checkout process
+  User authentication
+  
+Primary Pages
+  Page:                     Description:
+  Property Listing View     Grid display of available properties with filters
+  Listing Detailed View:    Complete property details with images and a  booking form
+  Simple Checkout View      Streamlined payment and booking confirmation
+
+  
